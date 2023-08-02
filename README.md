@@ -1,5 +1,5 @@
 # Automator examples in Ventura MacOs 13
- Automator Flow and Action examples in Ventura MacOs 13
+ Automator Flow and Action made in Ventura MacOs 13. The screenshots will help you to create “quick action” with Automator. The actions are visible in quick Actions mouse sub-menu on selected file(s).
 
 Soon : some scripts and workflows with latest Ventura
 
@@ -8,13 +8,14 @@ Soon : some scripts and workflows with latest Ventura
 - Copy from aliases in folder to another…
 
 ## Add watermark on pdf
+Note : le script avec Pages est dans le dossier “AppleScript”
 
 - ![screenshot 1](screenshots/MarkToDay-1.png)
 - Récupération du document pdf (mis en variable)
 - Création du texte qui servira de watermark, (via textedit)
 
 - ![screenshot 2](screenshots/MarkToDay-2.png)
-- Transformation du texte en pdf puis image (gif)
+- Transformation du texte en pdf (via Pages) puis image (gif)
 - ![screenshot 3](screenshots/MarkToDay-3.png)
 - mise en place par superposition du watermark
 - ![screenshot 4](screenshots/MarkToDay-4.png)
