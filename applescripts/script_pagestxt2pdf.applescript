@@ -7,4 +7,8 @@ tell application "Pages"
 	export mydoc to file Out_file as PDF --do the exporting
 	close mydoc saving no -- close the original file without saving
 end tell
-return out_fileend run
+return out_file
+
+end run
+
+-- to run pdf file must exist before
