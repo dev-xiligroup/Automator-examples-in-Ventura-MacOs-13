@@ -49,3 +49,7 @@ Et le renomme en deux temps…
 - Affiche le résultat dans Preview. (La pause pour laisser le temps..)
 - Après votre accord, mise à la poubelle des fichiers temporaires issus du renommage.
 
+## Copy from aliases in folder to another…
+
+This Shortcuts app copy folder containing aliases of “working” files everywhere in external volumes. Here it is possible to make a copy in user’s documents folder. With the repeat loop, original of each alias can be detected by AppleScript ! A shortcuts is added to dock so easy to launch.
+![screenshot shortcuts actions](screenshots/Workin_auto_bk_Aliases.png)
