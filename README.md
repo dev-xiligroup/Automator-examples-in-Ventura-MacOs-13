@@ -18,7 +18,7 @@ The second part renames the booklet pdf and you have choice to print this or to 
 
 What we learn creation this folder actions script :
 - **stable** call from AppleScript to Shortcuts App. Via do shell script (and way to pass the file path)
-- how to insert in choosing menu parts of shortcuts actions
+- how to insert variables in choosing menu parts of shortcuts actions
 - how to combine variables in renaming file action
 (The AppleScript is inside “AppleScript” folder)
 
